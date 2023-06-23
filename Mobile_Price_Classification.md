@@ -1,3 +1,5 @@
+# **Mobile Price Classification**
+
 # **Values to Users**
     - New insightful features for better modeling
     - Dimension reduction comparison between LDA and PCA
