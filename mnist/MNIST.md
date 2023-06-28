@@ -42,17 +42,23 @@ In a fully connected layer, each unit computes a weighted sum over all the input
 
 In a convolutional layer, each unit computes a weighted sum over a two-dimensional $K \times K$ patch of inputs. The units are arranged in **channels** (see figure below), whereby units in the same channel compute the same weighted sum over different parts of the input, using the weights of that channel's **convolutional filter (or kernel)**. The output of a convolutional layer is thus a three-dimensional tensor of shape $C^{out} \times H \times W$, where $C^{out}$ is the number of channels (i.e. the number of convolutional filters/kernels), and $H$ and $W$ are the height and width of the input.
 
-![1](https://raw.githubusercontent.com/NeuromatchAcademy/course-content/main/tutorials/static/convnet.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NeuromatchAcademy/course-content/main/tutorials/static/convnet.png" width="350" />
+</p>
 
 Such layers can be implemented in Python using the PyTorch class `nn.Conv2d`, which takes the same arguments as `nn.Conv1d` (documentation [here](https://pytorch.org/docs/master/generated/torch.nn.Conv2d.html)).
 
 **Padding**: adding extra pixels of filler around the boundary of our input image, thus increasing the effective size of the image. Typically, we set the values of the extra pixels to zero. In the following figure, we pad a  3×3  input, increasing its size to  5×5 . The corresponding output then increases to a  4×4  matrix. The shaded portions are the first output element as well as the input and kernel tensor elements used for the output computation:  0×0+0×1+0×2+0×3=0.
 
-![2](https://github.com/yidezhao/cis520/blob/master/padding.png?raw=true)
+<p align="center">
+<img src="https://github.com/yidezhao/cis520/blob/master/padding.png?raw=true" width="600" />
+<p/>
 
 **Stride**: Normally, we default to sliding one element at a time. However, sometimes, either for computational efficiency or because we wish to downsample, we move our window more than one element at a time, skipping the intermediate locations. The following figure shows a two-dimensional cross-correlation operation with a stride of 3 vertically and 2 horizontally. The shaded portions are the output elements as well as the input and kernel tensor elements used for the output computation:  0×0+0×1+1×2+2×3=8 ,  0×0+6×1+0×2+0×3=6 . We can see that when the second element of the first column is outputted, the convolution window slides down three rows. The convolution window slides two columns to the right when the second element of the first row is outputted. When the convolution window continues to slide two columns to the right on the input, there is no output because the input element cannot fill the window (unless we add another column of padding).
 
-![3](https://github.com/yidezhao/cis520/blob/master/stride.png?raw=true)
+<p align="center">
+<img src="https://github.com/yidezhao/cis520/blob/master/stride.png?raw=true" width="600" />
+<p/>
 
 The following is an example of a one convolutional layer CNN. For the convolutional layer, the kernal size is 3*3, the stride is 1 and padding is 1.
 
@@ -99,6 +105,8 @@ By design, the expectation remains unchanged, i.e.,  𝐸[ℎ′]=ℎ .
 
 When we apply dropout to a hidden layer, zeroing out each hidden unit with probability  𝑝 , the result can be viewed as a network containing only a subset of the original neurons. In the following figure,  ℎ2  and  ℎ5  are removed. Consequently, the calculation of the outputs no longer depends on  ℎ2  or  ℎ5  and their respective gradient also vanishes when performing backpropagation. In this way, the calculation of the output layer cannot be overly dependent on any one element of  ℎ1, … ,ℎ5.
 
-![4](https://github.com/yidezhao/cis520/blob/master/dropout.png?raw=ture)
+<p align="center">
+<img src="https://github.com/yidezhao/cis520/blob/master/dropout.png?raw=ture" width="600" />
+<p/>
 
 Now, test the accuracy of the model on the test set.
