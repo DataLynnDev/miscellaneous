@@ -1,0 +1,1001 @@
+﻿,CustomerID,Age,Occupation,Income,Education
+0,0,64,Lawyer,49088,High School
+1,1,67,Doctor,111541,Graduate
+2,2,20,Engineer,56720,PhD
+3,3,23,Doctor,59827,Graduate
+4,4,23,Lawyer,47800,High School
+5,5,59,Lawyer,84078,High School
+6,6,29,Doctor,31193,High School
+7,7,39,Engineer,72826,Undergraduate
+8,8,41,Lawyer,87446,PhD
+9,9,56,Lawyer,39820,High School
+10,10,43,Engineer,78223,Undergraduate
+11,11,26,Lawyer,96443,PhD
+12,12,44,Lawyer,75639,Undergraduate
+13,13,44,Doctor,110759,PhD
+14,14,32,Teacher,63865,PhD
+15,15,21,Lawyer,81032,PhD
+16,16,58,Lawyer,65560,High School
+17,17,59,Doctor,88593,PhD
+18,18,43,Teacher,91243,Undergraduate
+19,19,66,Teacher,116734,Graduate
+20,20,44,Doctor,77085,Graduate
+21,21,37,Lawyer,74559,PhD
+22,22,57,Engineer,104756,High School
+23,23,45,Doctor,93382,PhD
+24,24,33,Doctor,31716,Undergraduate
+25,25,28,Teacher,77170,Graduate
+26,26,29,Doctor,115831,Undergraduate
+27,27,40,Engineer,37533,Undergraduate
+28,28,36,Doctor,56952,Graduate
+29,29,25,Doctor,38527,High School
+30,30,35,Teacher,44809,Undergraduate
+31,31,67,Engineer,104969,Graduate
+32,32,20,Engineer,51395,High School
+33,33,38,Lawyer,70766,Undergraduate
+34,34,55,Teacher,38989,Undergraduate
+35,35,44,Engineer,41133,Undergraduate
+36,36,69,Engineer,52627,Undergraduate
+37,37,49,Doctor,62282,PhD
+38,38,39,Lawyer,41111,High School
+39,39,39,Teacher,59951,Undergraduate
+40,40,34,Engineer,37752,Graduate
+41,41,59,Lawyer,112175,PhD
+42,42,52,Teacher,119955,Graduate
+43,43,21,Doctor,69538,Graduate
+44,44,29,Engineer,95198,High School
+45,45,52,Lawyer,88890,Graduate
+46,46,51,Teacher,46074,PhD
+47,47,30,Engineer,61231,Undergraduate
+48,48,43,Teacher,117391,Undergraduate
+49,49,55,Doctor,59659,Graduate
+50,50,31,Doctor,31677,High School
+51,51,48,Lawyer,51454,High School
+52,52,54,Lawyer,101685,Undergraduate
+53,53,20,Engineer,54983,Undergraduate
+54,54,20,Lawyer,101271,Graduate
+55,55,56,Engineer,45409,High School
+56,56,25,Teacher,80533,Graduate
+57,57,58,Engineer,48293,Undergraduate
+58,58,60,Doctor,86248,Undergraduate
+59,59,37,Doctor,94939,Graduate
+60,60,35,Lawyer,99784,High School
+61,61,24,Doctor,115329,Undergraduate
+62,62,61,Engineer,92997,Undergraduate
+63,63,62,Teacher,118030,High School
+64,64,51,Doctor,75119,Undergraduate
+65,65,21,Doctor,84617,High School
+66,66,21,Engineer,119381,High School
+67,67,59,Engineer,114913,Undergraduate
+68,68,61,Engineer,117208,Graduate
+69,69,55,Engineer,100129,Undergraduate
+70,70,58,Teacher,106138,Undergraduate
+71,71,31,Engineer,86543,Undergraduate
+72,72,66,Lawyer,105040,PhD
+73,73,38,Teacher,69105,Undergraduate
+74,74,47,Teacher,35241,Graduate
+75,75,20,Lawyer,112293,Graduate
+76,76,34,Doctor,30833,Graduate
+77,77,55,Lawyer,85332,High School
+78,78,32,Doctor,44074,PhD
+79,79,62,Engineer,32073,PhD
+80,80,40,Doctor,107772,Graduate
+81,81,31,Lawyer,101752,PhD
+82,82,24,Teacher,77628,High School
+83,83,26,Lawyer,60403,Undergraduate
+84,84,24,Engineer,52922,Graduate
+85,85,67,Engineer,118583,PhD
+86,86,23,Engineer,47332,Graduate
+87,87,32,Lawyer,45452,Graduate
+88,88,56,Engineer,48888,Graduate
+89,89,60,Doctor,68115,Graduate
+90,90,34,Engineer,65025,Undergraduate
+91,91,35,Teacher,96711,Graduate
+92,92,40,Engineer,117669,PhD
+93,93,55,Doctor,80357,PhD
+94,94,43,Lawyer,116540,High School
+95,95,35,Teacher,95031,High School
+96,96,33,Lawyer,117471,PhD
+97,97,41,Doctor,40350,Graduate
+98,98,68,Lawyer,95374,PhD
+99,99,69,Doctor,68547,High School
+100,100,25,Doctor,64026,Graduate
+101,101,61,Doctor,64669,PhD
+102,102,55,Engineer,35042,Undergraduate
+103,103,20,Doctor,111473,PhD
+104,104,51,Engineer,79746,High School
+105,105,25,Engineer,113406,PhD
+106,106,50,Lawyer,93483,Graduate
+107,107,20,Lawyer,59785,PhD
+108,108,69,Doctor,62869,High School
+109,109,56,Lawyer,57000,PhD
+110,110,54,Teacher,83432,Graduate
+111,111,68,Lawyer,44920,PhD
+112,112,49,Doctor,73042,High School
+113,113,23,Lawyer,80138,Undergraduate
+114,114,54,Lawyer,71483,PhD
+115,115,62,Doctor,114588,PhD
+116,116,33,Engineer,40600,High School
+117,117,68,Lawyer,69332,High School
+118,118,59,Engineer,50350,PhD
+119,119,41,Lawyer,82401,High School
+120,120,29,Engineer,50428,High School
+121,121,20,Lawyer,68704,Graduate
+122,122,30,Lawyer,116602,PhD
+123,123,63,Engineer,110477,PhD
+124,124,43,Doctor,75770,Undergraduate
+125,125,22,Lawyer,65569,Undergraduate
+126,126,54,Teacher,37463,High School
+127,127,55,Lawyer,88114,High School
+128,128,50,Teacher,35103,PhD
+129,129,23,Teacher,62843,Undergraduate
+130,130,38,Teacher,31966,PhD
+131,131,66,Engineer,34090,PhD
+132,132,55,Lawyer,66483,PhD
+133,133,40,Doctor,81472,Undergraduate
+134,134,37,Engineer,45679,PhD
+135,135,47,Engineer,45168,Undergraduate
+136,136,34,Doctor,99414,Undergraduate
+137,137,61,Lawyer,99892,High School
+138,138,21,Doctor,110387,PhD
+139,139,56,Doctor,83841,Undergraduate
+140,140,30,Engineer,98752,High School
+141,141,42,Teacher,97966,High School
+142,142,63,Lawyer,94327,Undergraduate
+143,143,60,Engineer,71624,Graduate
+144,144,31,Lawyer,54726,High School
+145,145,22,Engineer,50028,Undergraduate
+146,146,36,Doctor,72203,High School
+147,147,52,Lawyer,35000,Graduate
+148,148,20,Engineer,60425,PhD
+149,149,58,Lawyer,69206,Undergraduate
+150,150,39,Teacher,97124,PhD
+151,151,66,Teacher,81544,High School
+152,152,62,Lawyer,78447,Graduate
+153,153,60,Lawyer,106693,Graduate
+154,154,33,Lawyer,81615,High School
+155,155,50,Lawyer,38947,Undergraduate
+156,156,44,Engineer,61397,Undergraduate
+157,157,22,Doctor,115654,High School
+158,158,23,Engineer,91052,Graduate
+159,159,50,Teacher,55898,PhD
+160,160,54,Teacher,85483,Graduate
+161,161,63,Engineer,106511,Graduate
+162,162,33,Teacher,118009,Graduate
+163,163,68,Engineer,46243,High School
+164,164,60,Teacher,109283,PhD
+165,165,28,Doctor,58439,Graduate
+166,166,39,Lawyer,110979,High School
+167,167,51,Teacher,52297,Undergraduate
+168,168,28,Engineer,117865,Undergraduate
+169,169,46,Lawyer,86517,Graduate
+170,170,22,Engineer,79453,Graduate
+171,171,23,Lawyer,31339,PhD
+172,172,64,Lawyer,113884,Graduate
+173,173,34,Lawyer,113098,Undergraduate
+174,174,52,Doctor,66472,High School
+175,175,24,Teacher,94427,High School
+176,176,23,Engineer,54992,PhD
+177,177,65,Teacher,35774,High School
+178,178,31,Doctor,115319,PhD
+179,179,42,Engineer,48109,Graduate
+180,180,33,Doctor,63281,High School
+181,181,65,Lawyer,66342,PhD
+182,182,31,Engineer,110303,PhD
+183,183,36,Teacher,103084,Graduate
+184,184,44,Lawyer,53723,Undergraduate
+185,185,49,Engineer,114442,High School
+186,186,41,Lawyer,47610,Graduate
+187,187,66,Lawyer,52613,High School
+188,188,45,Doctor,58327,Undergraduate
+189,189,36,Engineer,103195,High School
+190,190,39,Doctor,99888,PhD
+191,191,53,Engineer,82410,High School
+192,192,60,Doctor,57660,PhD
+193,193,52,Teacher,110683,Undergraduate
+194,194,56,Engineer,35046,PhD
+195,195,26,Teacher,104518,Graduate
+196,196,41,Engineer,77903,PhD
+197,197,51,Engineer,108196,PhD
+198,198,33,Teacher,91226,Graduate
+199,199,27,Doctor,98932,PhD
+200,200,44,Teacher,66730,PhD
+201,201,35,Teacher,38913,Graduate
+202,202,61,Engineer,106016,PhD
+203,203,38,Doctor,111263,PhD
+204,204,60,Lawyer,54838,High School
+205,205,35,Doctor,99040,High School
+206,206,31,Teacher,93160,PhD
+207,207,58,Lawyer,32441,Graduate
+208,208,67,Teacher,89202,Graduate
+209,209,49,Lawyer,31188,High School
+210,210,21,Doctor,84772,Graduate
+211,211,51,Teacher,45424,Graduate
+212,212,64,Engineer,112890,High School
+213,213,44,Lawyer,59837,Undergraduate
+214,214,44,Lawyer,61979,High School
+215,215,23,Lawyer,88882,Graduate
+216,216,38,Lawyer,98005,PhD
+217,217,67,Lawyer,119031,Graduate
+218,218,23,Engineer,64526,PhD
+219,219,62,Teacher,66817,PhD
+220,220,32,Engineer,88883,PhD
+221,221,58,Doctor,46495,Undergraduate
+222,222,55,Teacher,109842,Undergraduate
+223,223,42,Engineer,102528,High School
+224,224,25,Teacher,97315,Undergraduate
+225,225,43,Doctor,100226,PhD
+226,226,63,Engineer,116834,Graduate
+227,227,52,Doctor,81133,Graduate
+228,228,31,Lawyer,98074,PhD
+229,229,60,Teacher,92418,Graduate
+230,230,40,Teacher,107852,Graduate
+231,231,30,Engineer,64595,Undergraduate
+232,232,63,Doctor,74826,PhD
+233,233,57,Teacher,98977,Graduate
+234,234,48,Lawyer,35479,Graduate
+235,235,67,Lawyer,35674,Graduate
+236,236,60,Doctor,91230,PhD
+237,237,22,Doctor,87515,PhD
+238,238,47,Engineer,104835,High School
+239,239,39,Doctor,83310,High School
+240,240,45,Lawyer,74234,Graduate
+241,241,43,Lawyer,85945,Undergraduate
+242,242,66,Teacher,113163,Undergraduate
+243,243,40,Lawyer,100371,PhD
+244,244,49,Lawyer,49296,PhD
+245,245,23,Teacher,107555,High School
+246,246,55,Engineer,98990,High School
+247,247,59,Doctor,91153,PhD
+248,248,29,Teacher,33901,Undergraduate
+249,249,29,Teacher,62236,High School
+250,250,61,Engineer,116891,High School
+251,251,43,Doctor,89747,Graduate
+252,252,23,Doctor,37831,Undergraduate
+253,253,66,Doctor,53805,Graduate
+254,254,46,Teacher,98328,High School
+255,255,64,Lawyer,95815,High School
+256,256,23,Lawyer,104874,High School
+257,257,51,Teacher,107353,High School
+258,258,29,Lawyer,43116,PhD
+259,259,30,Engineer,96351,Undergraduate
+260,260,47,Lawyer,72639,Undergraduate
+261,261,65,Teacher,92500,Undergraduate
+262,262,27,Lawyer,101617,Undergraduate
+263,263,59,Engineer,105749,Graduate
+264,264,41,Lawyer,47194,Graduate
+265,265,53,Lawyer,54318,Graduate
+266,266,64,Engineer,62723,High School
+267,267,54,Doctor,34829,PhD
+268,268,54,Engineer,65907,Undergraduate
+269,269,44,Lawyer,99919,PhD
+270,270,53,Doctor,32845,Undergraduate
+271,271,25,Doctor,101696,Undergraduate
+272,272,60,Teacher,56563,Graduate
+273,273,56,Teacher,61002,High School
+274,274,20,Engineer,50477,High School
+275,275,31,Engineer,50713,PhD
+276,276,54,Engineer,74517,High School
+277,277,25,Lawyer,50747,Graduate
+278,278,36,Engineer,33409,Undergraduate
+279,279,28,Teacher,41063,PhD
+280,280,21,Engineer,39515,Graduate
+281,281,37,Doctor,69235,Undergraduate
+282,282,68,Teacher,42820,High School
+283,283,55,Doctor,75531,PhD
+284,284,47,Lawyer,30511,PhD
+285,285,60,Engineer,34366,Undergraduate
+286,286,56,Teacher,46654,High School
+287,287,68,Doctor,56704,PhD
+288,288,45,Teacher,78611,High School
+289,289,23,Doctor,95983,High School
+290,290,59,Teacher,67237,Undergraduate
+291,291,55,Doctor,94667,Graduate
+292,292,50,Lawyer,70294,High School
+293,293,49,Doctor,74759,PhD
+294,294,69,Doctor,65351,PhD
+295,295,53,Teacher,32881,PhD
+296,296,38,Doctor,98373,PhD
+297,297,37,Doctor,91881,Undergraduate
+298,298,49,Engineer,81780,High School
+299,299,40,Doctor,119901,Undergraduate
+300,300,22,Engineer,51272,Graduate
+301,301,25,Teacher,73350,High School
+302,302,57,Doctor,44609,High School
+303,303,32,Lawyer,115940,High School
+304,304,64,Teacher,51729,Graduate
+305,305,22,Lawyer,41858,Undergraduate
+306,306,67,Engineer,85050,High School
+307,307,47,Engineer,64333,High School
+308,308,41,Lawyer,62907,PhD
+309,309,59,Lawyer,105934,Graduate
+310,310,59,Lawyer,71287,PhD
+311,311,31,Teacher,66410,PhD
+312,312,42,Lawyer,108814,Undergraduate
+313,313,50,Doctor,54533,PhD
+314,314,37,Teacher,52855,Graduate
+315,315,26,Engineer,63260,Graduate
+316,316,27,Lawyer,46723,High School
+317,317,38,Engineer,60745,Undergraduate
+318,318,48,Doctor,89565,High School
+319,319,63,Lawyer,64169,PhD
+320,320,39,Engineer,37299,High School
+321,321,69,Doctor,30884,Graduate
+322,322,61,Lawyer,69892,Graduate
+323,323,49,Doctor,34081,PhD
+324,324,66,Lawyer,30851,High School
+325,325,41,Doctor,114217,Graduate
+326,326,29,Engineer,32597,Graduate
+327,327,45,Teacher,118508,Undergraduate
+328,328,52,Lawyer,74761,High School
+329,329,47,Lawyer,88887,High School
+330,330,29,Teacher,82156,Undergraduate
+331,331,48,Engineer,60885,Graduate
+332,332,63,Lawyer,45956,Undergraduate
+333,333,37,Teacher,86314,Undergraduate
+334,334,61,Teacher,60992,Undergraduate
+335,335,20,Engineer,76765,Graduate
+336,336,42,Teacher,31512,PhD
+337,337,36,Lawyer,70481,PhD
+338,338,62,Engineer,119953,PhD
+339,339,56,Doctor,56433,Undergraduate
+340,340,50,Doctor,85497,PhD
+341,341,44,Lawyer,52615,High School
+342,342,23,Teacher,68212,PhD
+343,343,28,Engineer,55606,Graduate
+344,344,47,Doctor,87185,Undergraduate
+345,345,49,Engineer,64162,Undergraduate
+346,346,66,Lawyer,84015,PhD
+347,347,43,Lawyer,41836,Undergraduate
+348,348,52,Engineer,61960,Undergraduate
+349,349,39,Engineer,114029,Undergraduate
+350,350,28,Lawyer,119076,Undergraduate
+351,351,27,Lawyer,119275,High School
+352,352,43,Teacher,78761,Graduate
+353,353,33,Doctor,73466,High School
+354,354,37,Teacher,51277,PhD
+355,355,20,Engineer,96799,PhD
+356,356,31,Doctor,66892,Undergraduate
+357,357,48,Teacher,53704,Undergraduate
+358,358,56,Doctor,67330,PhD
+359,359,45,Teacher,89029,Undergraduate
+360,360,52,Engineer,49718,High School
+361,361,62,Lawyer,77188,Undergraduate
+362,362,34,Doctor,33703,High School
+363,363,42,Engineer,94795,Graduate
+364,364,48,Engineer,65738,High School
+365,365,40,Lawyer,91888,PhD
+366,366,38,Lawyer,36949,PhD
+367,367,24,Lawyer,44343,PhD
+368,368,42,Doctor,81851,High School
+369,369,55,Lawyer,56604,Graduate
+370,370,39,Doctor,77490,PhD
+371,371,27,Lawyer,39733,Undergraduate
+372,372,28,Teacher,90177,High School
+373,373,33,Teacher,87082,Graduate
+374,374,25,Engineer,103294,High School
+375,375,20,Teacher,109749,High School
+376,376,28,Lawyer,43393,Graduate
+377,377,35,Doctor,95646,High School
+378,378,35,Doctor,65436,PhD
+379,379,31,Lawyer,96590,Graduate
+380,380,24,Doctor,105523,High School
+381,381,59,Engineer,95664,Undergraduate
+382,382,48,Teacher,48269,Graduate
+383,383,65,Lawyer,106076,Undergraduate
+384,384,46,Teacher,113180,High School
+385,385,30,Teacher,50351,Undergraduate
+386,386,66,Lawyer,57581,Graduate
+387,387,69,Lawyer,81454,High School
+388,388,47,Teacher,81613,Graduate
+389,389,55,Lawyer,80779,High School
+390,390,61,Teacher,108754,PhD
+391,391,38,Teacher,31010,PhD
+392,392,54,Teacher,104980,PhD
+393,393,50,Lawyer,63979,Undergraduate
+394,394,63,Lawyer,108869,Undergraduate
+395,395,38,Engineer,75119,PhD
+396,396,65,Teacher,85006,Graduate
+397,397,43,Teacher,88981,Graduate
+398,398,21,Teacher,110529,High School
+399,399,26,Engineer,106673,Graduate
+400,400,62,Teacher,44479,Graduate
+401,401,68,Engineer,57625,Undergraduate
+402,402,50,Engineer,80925,Graduate
+403,403,36,Lawyer,54081,Graduate
+404,404,46,Engineer,113180,High School
+405,405,55,Lawyer,72933,PhD
+406,406,69,Doctor,45766,PhD
+407,407,62,Teacher,109309,Undergraduate
+408,408,29,Doctor,87611,Undergraduate
+409,409,64,Teacher,97465,High School
+410,410,33,Engineer,93986,Undergraduate
+411,411,26,Lawyer,74982,High School
+412,412,58,Engineer,30947,PhD
+413,413,59,Teacher,58719,PhD
+414,414,28,Teacher,74529,High School
+415,415,33,Engineer,44590,PhD
+416,416,27,Teacher,74406,Graduate
+417,417,36,Teacher,82652,Graduate
+418,418,42,Doctor,52728,PhD
+419,419,35,Engineer,46876,High School
+420,420,45,Doctor,75074,Graduate
+421,421,28,Engineer,111117,Graduate
+422,422,55,Doctor,46889,PhD
+423,423,26,Lawyer,80405,Undergraduate
+424,424,37,Teacher,93076,Undergraduate
+425,425,27,Teacher,63130,PhD
+426,426,40,Engineer,32205,PhD
+427,427,45,Engineer,72139,Graduate
+428,428,22,Engineer,53185,High School
+429,429,36,Doctor,79547,High School
+430,430,65,Engineer,33377,Graduate
+431,431,43,Teacher,109176,Graduate
+432,432,44,Engineer,34440,High School
+433,433,24,Teacher,88883,Undergraduate
+434,434,56,Doctor,46015,Undergraduate
+435,435,64,Teacher,58601,High School
+436,436,69,Lawyer,79283,PhD
+437,437,43,Teacher,54438,PhD
+438,438,50,Lawyer,86292,Graduate
+439,439,45,Doctor,36076,Undergraduate
+440,440,40,Teacher,72919,PhD
+441,441,53,Doctor,43822,PhD
+442,442,57,Doctor,83405,PhD
+443,443,43,Lawyer,49381,High School
+444,444,47,Doctor,75123,Graduate
+445,445,49,Teacher,85499,Graduate
+446,446,53,Lawyer,86695,Undergraduate
+447,447,42,Doctor,51583,PhD
+448,448,27,Engineer,34698,Graduate
+449,449,61,Lawyer,86545,High School
+450,450,69,Teacher,51515,High School
+451,451,29,Teacher,70439,High School
+452,452,20,Engineer,89525,PhD
+453,453,39,Lawyer,47310,High School
+454,454,56,Engineer,64372,PhD
+455,455,37,Lawyer,71504,Graduate
+456,456,40,Lawyer,83029,High School
+457,457,68,Engineer,70107,PhD
+458,458,23,Engineer,38829,Undergraduate
+459,459,62,Lawyer,111212,Graduate
+460,460,21,Doctor,75613,Graduate
+461,461,40,Lawyer,101965,PhD
+462,462,56,Teacher,112170,PhD
+463,463,24,Teacher,104907,Graduate
+464,464,36,Engineer,58391,PhD
+465,465,68,Lawyer,79947,High School
+466,466,67,Doctor,92493,PhD
+467,467,30,Doctor,38318,Graduate
+468,468,65,Engineer,100731,High School
+469,469,60,Engineer,89489,PhD
+470,470,50,Engineer,33278,High School
+471,471,47,Engineer,41531,PhD
+472,472,63,Doctor,99066,Graduate
+473,473,51,Teacher,38025,Graduate
+474,474,40,Doctor,39906,High School
+475,475,26,Teacher,37208,Graduate
+476,476,29,Teacher,36430,Graduate
+477,477,47,Teacher,113606,High School
+478,478,67,Doctor,104875,High School
+479,479,55,Lawyer,50043,Graduate
+480,480,39,Engineer,59987,High School
+481,481,32,Engineer,34564,High School
+482,482,38,Lawyer,114932,PhD
+483,483,69,Doctor,72559,Undergraduate
+484,484,30,Doctor,34868,Graduate
+485,485,54,Lawyer,59361,Graduate
+486,486,53,Teacher,45165,PhD
+487,487,63,Doctor,30603,Graduate
+488,488,23,Teacher,53763,Graduate
+489,489,32,Doctor,87704,Graduate
+490,490,56,Lawyer,68834,High School
+491,491,21,Engineer,40463,Graduate
+492,492,69,Engineer,50318,Graduate
+493,493,20,Engineer,103528,Undergraduate
+494,494,59,Doctor,45347,PhD
+495,495,44,Lawyer,61523,PhD
+496,496,56,Teacher,103929,High School
+497,497,55,Engineer,42079,Graduate
+498,498,25,Teacher,32096,Graduate
+499,499,26,Engineer,114935,Graduate
+500,500,23,Teacher,53157,Graduate
+501,501,54,Doctor,57203,High School
+502,502,60,Doctor,82859,Undergraduate
+503,503,53,Teacher,54263,PhD
+504,504,48,Doctor,110840,Undergraduate
+505,505,24,Teacher,81493,Graduate
+506,506,46,Doctor,98613,Undergraduate
+507,507,52,Doctor,95591,Undergraduate
+508,508,65,Teacher,103180,PhD
+509,509,29,Engineer,97622,Undergraduate
+510,510,25,Engineer,108385,Undergraduate
+511,511,53,Lawyer,97848,Undergraduate
+512,512,27,Lawyer,68210,High School
+513,513,50,Engineer,84334,High School
+514,514,28,Teacher,89408,High School
+515,515,40,Lawyer,51693,Undergraduate
+516,516,27,Engineer,111163,High School
+517,517,23,Doctor,99002,Undergraduate
+518,518,41,Engineer,66884,Undergraduate
+519,519,47,Lawyer,68670,High School
+520,520,64,Doctor,33704,Graduate
+521,521,23,Engineer,95588,Undergraduate
+522,522,58,Engineer,111565,Undergraduate
+523,523,40,Teacher,115262,PhD
+524,524,27,Doctor,105378,High School
+525,525,39,Doctor,112670,PhD
+526,526,51,Doctor,90367,Undergraduate
+527,527,20,Engineer,30819,PhD
+528,528,25,Engineer,37200,Undergraduate
+529,529,47,Lawyer,54983,PhD
+530,530,63,Teacher,117801,Undergraduate
+531,531,50,Lawyer,88203,High School
+532,532,29,Teacher,100406,PhD
+533,533,39,Lawyer,89512,PhD
+534,534,27,Teacher,96635,Graduate
+535,535,41,Lawyer,32556,Graduate
+536,536,57,Engineer,101366,High School
+537,537,48,Teacher,51411,Undergraduate
+538,538,28,Doctor,54638,Graduate
+539,539,63,Teacher,93294,High School
+540,540,66,Lawyer,95978,High School
+541,541,20,Engineer,116604,Undergraduate
+542,542,60,Teacher,90946,Undergraduate
+543,543,58,Doctor,44036,PhD
+544,544,45,Doctor,47101,PhD
+545,545,30,Doctor,39818,High School
+546,546,54,Engineer,76192,High School
+547,547,43,Doctor,76229,High School
+548,548,52,Teacher,48281,PhD
+549,549,39,Lawyer,85697,Graduate
+550,550,46,Lawyer,111946,Undergraduate
+551,551,34,Teacher,60107,High School
+552,552,52,Lawyer,105501,PhD
+553,553,26,Doctor,90848,PhD
+554,554,53,Engineer,104296,Undergraduate
+555,555,64,Lawyer,103786,Graduate
+556,556,65,Doctor,59910,High School
+557,557,61,Lawyer,45199,Undergraduate
+558,558,24,Teacher,94473,PhD
+559,559,49,Teacher,69132,Graduate
+560,560,47,Lawyer,102388,High School
+561,561,37,Lawyer,57055,PhD
+562,562,55,Doctor,74766,PhD
+563,563,22,Lawyer,85421,Undergraduate
+564,564,40,Engineer,47756,PhD
+565,565,65,Lawyer,49961,High School
+566,566,35,Teacher,38008,PhD
+567,567,56,Engineer,115690,Undergraduate
+568,568,61,Lawyer,103499,Undergraduate
+569,569,24,Doctor,73014,Graduate
+570,570,69,Lawyer,63671,Graduate
+571,571,33,Teacher,42151,PhD
+572,572,50,Teacher,43816,PhD
+573,573,65,Teacher,105802,PhD
+574,574,43,Teacher,78933,Graduate
+575,575,54,Lawyer,50913,Graduate
+576,576,55,Teacher,45892,PhD
+577,577,29,Teacher,83725,Graduate
+578,578,46,Doctor,49319,Undergraduate
+579,579,46,Lawyer,102120,Graduate
+580,580,42,Teacher,59111,Undergraduate
+581,581,32,Teacher,81897,PhD
+582,582,35,Doctor,32688,Undergraduate
+583,583,54,Teacher,112323,High School
+584,584,46,Teacher,49506,PhD
+585,585,58,Doctor,94451,Undergraduate
+586,586,66,Teacher,93228,Undergraduate
+587,587,36,Teacher,33621,Graduate
+588,588,67,Doctor,85224,Undergraduate
+589,589,60,Teacher,31918,Graduate
+590,590,20,Doctor,42933,Undergraduate
+591,591,30,Teacher,38144,Undergraduate
+592,592,31,Lawyer,84746,Graduate
+593,593,33,Lawyer,116461,High School
+594,594,27,Teacher,30966,Undergraduate
+595,595,50,Lawyer,93833,Undergraduate
+596,596,26,Lawyer,33275,PhD
+597,597,65,Lawyer,72641,Graduate
+598,598,50,Doctor,51151,Graduate
+599,599,35,Lawyer,50570,High School
+600,600,61,Engineer,59735,PhD
+601,601,58,Doctor,63525,High School
+602,602,63,Engineer,80762,High School
+603,603,38,Lawyer,77398,Undergraduate
+604,604,27,Lawyer,69492,Undergraduate
+605,605,48,Engineer,106155,Graduate
+606,606,21,Teacher,75607,PhD
+607,607,61,Lawyer,99759,Graduate
+608,608,22,Doctor,107007,PhD
+609,609,48,Engineer,79165,Graduate
+610,610,34,Engineer,88531,High School
+611,611,57,Lawyer,71446,High School
+612,612,47,Engineer,115387,High School
+613,613,56,Engineer,30359,Undergraduate
+614,614,51,Doctor,50811,PhD
+615,615,49,Teacher,85280,PhD
+616,616,66,Teacher,109670,Undergraduate
+617,617,49,Engineer,60116,PhD
+618,618,53,Teacher,67970,Graduate
+619,619,32,Engineer,114659,High School
+620,620,52,Teacher,101842,Undergraduate
+621,621,61,Teacher,93216,High School
+622,622,36,Doctor,54812,PhD
+623,623,22,Engineer,56265,Undergraduate
+624,624,28,Doctor,33422,PhD
+625,625,30,Lawyer,62869,High School
+626,626,68,Teacher,68587,PhD
+627,627,46,Lawyer,88747,Undergraduate
+628,628,47,Engineer,87310,PhD
+629,629,21,Engineer,51497,Undergraduate
+630,630,20,Engineer,59755,Undergraduate
+631,631,25,Lawyer,72170,Undergraduate
+632,632,44,Lawyer,66114,Graduate
+633,633,54,Engineer,102204,PhD
+634,634,35,Engineer,32945,PhD
+635,635,23,Lawyer,43595,High School
+636,636,66,Engineer,40179,Undergraduate
+637,637,57,Teacher,105709,Undergraduate
+638,638,63,Engineer,63552,High School
+639,639,39,Teacher,81836,PhD
+640,640,44,Doctor,66614,PhD
+641,641,26,Lawyer,53040,PhD
+642,642,40,Teacher,52535,Undergraduate
+643,643,26,Lawyer,64619,Undergraduate
+644,644,48,Lawyer,118436,High School
+645,645,26,Doctor,69332,Graduate
+646,646,22,Engineer,66565,Graduate
+647,647,48,Teacher,94113,Undergraduate
+648,648,48,Teacher,113702,PhD
+649,649,58,Teacher,49656,PhD
+650,650,57,Doctor,61343,Graduate
+651,651,25,Engineer,82390,PhD
+652,652,65,Lawyer,114961,Graduate
+653,653,29,Lawyer,52596,Undergraduate
+654,654,56,Teacher,91531,Undergraduate
+655,655,33,Lawyer,71741,PhD
+656,656,41,Doctor,46712,PhD
+657,657,51,Teacher,118710,Graduate
+658,658,37,Teacher,105102,PhD
+659,659,55,Teacher,55740,Undergraduate
+660,660,65,Teacher,113843,PhD
+661,661,28,Doctor,37696,PhD
+662,662,45,Lawyer,97845,PhD
+663,663,41,Engineer,82776,Undergraduate
+664,664,65,Engineer,78029,PhD
+665,665,57,Teacher,113637,Graduate
+666,666,42,Doctor,54854,High School
+667,667,36,Engineer,91797,Graduate
+668,668,45,Engineer,114503,Graduate
+669,669,66,Lawyer,38443,Graduate
+670,670,57,Teacher,33962,Undergraduate
+671,671,21,Lawyer,39124,Graduate
+672,672,25,Lawyer,54299,PhD
+673,673,26,Teacher,69878,Undergraduate
+674,674,32,Doctor,52918,High School
+675,675,46,Lawyer,63112,Graduate
+676,676,30,Engineer,88956,High School
+677,677,34,Teacher,93071,PhD
+678,678,28,Doctor,102305,PhD
+679,679,27,Doctor,57500,Graduate
+680,680,65,Doctor,102708,PhD
+681,681,25,Engineer,119695,PhD
+682,682,67,Lawyer,88300,PhD
+683,683,62,Lawyer,64431,Undergraduate
+684,684,23,Engineer,53050,High School
+685,685,30,Engineer,34893,Graduate
+686,686,47,Doctor,92305,High School
+687,687,45,Doctor,117913,Undergraduate
+688,688,23,Lawyer,64032,PhD
+689,689,34,Teacher,31549,PhD
+690,690,38,Lawyer,77155,Undergraduate
+691,691,25,Lawyer,55707,PhD
+692,692,24,Lawyer,73762,Graduate
+693,693,37,Lawyer,99541,Graduate
+694,694,25,Teacher,47060,High School
+695,695,50,Engineer,108980,Undergraduate
+696,696,44,Lawyer,107617,Undergraduate
+697,697,23,Engineer,82133,Graduate
+698,698,25,Teacher,42747,PhD
+699,699,60,Engineer,118876,Undergraduate
+700,700,56,Teacher,117621,Undergraduate
+701,701,69,Teacher,46878,PhD
+702,702,44,Lawyer,59968,Undergraduate
+703,703,53,Teacher,66357,PhD
+704,704,38,Doctor,102599,High School
+705,705,53,Engineer,119007,High School
+706,706,34,Lawyer,56179,PhD
+707,707,69,Doctor,70102,High School
+708,708,27,Engineer,36238,PhD
+709,709,63,Doctor,76879,PhD
+710,710,66,Lawyer,93914,Undergraduate
+711,711,68,Engineer,70213,PhD
+712,712,53,Engineer,67857,PhD
+713,713,37,Teacher,105884,PhD
+714,714,49,Doctor,55631,PhD
+715,715,32,Doctor,46979,PhD
+716,716,66,Engineer,61810,Graduate
+717,717,52,Doctor,106959,Graduate
+718,718,54,Engineer,95394,Graduate
+719,719,43,Engineer,49219,High School
+720,720,45,Teacher,61293,Undergraduate
+721,721,66,Engineer,30609,High School
+722,722,63,Doctor,107740,High School
+723,723,61,Lawyer,106020,Graduate
+724,724,66,Teacher,42012,Graduate
+725,725,20,Lawyer,107534,Undergraduate
+726,726,32,Engineer,44823,PhD
+727,727,29,Teacher,101870,High School
+728,728,38,Teacher,101884,Undergraduate
+729,729,24,Engineer,75968,PhD
+730,730,27,Doctor,62848,High School
+731,731,23,Engineer,32558,Undergraduate
+732,732,68,Engineer,39350,High School
+733,733,32,Engineer,60148,Undergraduate
+734,734,57,Engineer,116829,High School
+735,735,65,Engineer,118570,PhD
+736,736,68,Doctor,72654,High School
+737,737,65,Teacher,75644,Graduate
+738,738,38,Doctor,105643,High School
+739,739,69,Engineer,34789,PhD
+740,740,27,Teacher,58065,Graduate
+741,741,46,Teacher,101058,PhD
+742,742,69,Teacher,38824,PhD
+743,743,66,Lawyer,49610,Undergraduate
+744,744,49,Doctor,36382,PhD
+745,745,23,Doctor,108105,PhD
+746,746,30,Doctor,89917,PhD
+747,747,40,Engineer,60655,Graduate
+748,748,62,Doctor,114699,High School
+749,749,21,Lawyer,49006,Graduate
+750,750,40,Lawyer,115049,PhD
+751,751,36,Doctor,99013,PhD
+752,752,62,Lawyer,30107,PhD
+753,753,48,Doctor,104232,Graduate
+754,754,46,Lawyer,100469,PhD
+755,755,43,Teacher,89185,Undergraduate
+756,756,68,Teacher,67913,Graduate
+757,757,22,Engineer,79420,Undergraduate
+758,758,58,Teacher,94431,Undergraduate
+759,759,29,Engineer,71725,Graduate
+760,760,22,Teacher,95609,PhD
+761,761,64,Lawyer,106682,High School
+762,762,61,Engineer,100106,PhD
+763,763,45,Lawyer,84416,Undergraduate
+764,764,56,Lawyer,96911,Graduate
+765,765,46,Engineer,70798,Undergraduate
+766,766,24,Teacher,33301,Graduate
+767,767,61,Teacher,65110,PhD
+768,768,30,Lawyer,113120,PhD
+769,769,32,Doctor,48108,Graduate
+770,770,60,Doctor,79670,PhD
+771,771,53,Engineer,79783,PhD
+772,772,57,Lawyer,110239,High School
+773,773,59,Engineer,104943,Graduate
+774,774,52,Engineer,57841,Undergraduate
+775,775,53,Teacher,89005,PhD
+776,776,46,Teacher,113221,Undergraduate
+777,777,55,Lawyer,72752,High School
+778,778,45,Doctor,41990,PhD
+779,779,44,Teacher,49620,Undergraduate
+780,780,38,Engineer,107466,High School
+781,781,40,Doctor,113604,Graduate
+782,782,50,Teacher,108164,Graduate
+783,783,48,Engineer,102935,Graduate
+784,784,28,Teacher,101202,High School
+785,785,38,Teacher,93729,PhD
+786,786,45,Teacher,41118,Undergraduate
+787,787,44,Engineer,81102,Undergraduate
+788,788,59,Engineer,114708,Graduate
+789,789,62,Teacher,84836,Undergraduate
+790,790,48,Engineer,78724,High School
+791,791,44,Teacher,91758,PhD
+792,792,38,Lawyer,105051,PhD
+793,793,23,Doctor,103642,High School
+794,794,64,Engineer,63421,PhD
+795,795,39,Teacher,96040,High School
+796,796,65,Teacher,95903,High School
+797,797,20,Lawyer,55353,Undergraduate
+798,798,30,Teacher,82379,High School
+799,799,23,Doctor,96533,Undergraduate
+800,800,26,Engineer,60242,PhD
+801,801,47,Lawyer,68726,Graduate
+802,802,55,Teacher,43737,PhD
+803,803,26,Teacher,76117,Undergraduate
+804,804,39,Teacher,75062,High School
+805,805,54,Lawyer,51077,PhD
+806,806,58,Engineer,35123,Undergraduate
+807,807,40,Doctor,109947,PhD
+808,808,63,Doctor,115738,Graduate
+809,809,20,Teacher,89805,Graduate
+810,810,56,Teacher,116739,PhD
+811,811,65,Engineer,68170,Graduate
+812,812,61,Teacher,102447,Undergraduate
+813,813,22,Doctor,50560,High School
+814,814,53,Engineer,88531,High School
+815,815,32,Lawyer,87337,PhD
+816,816,35,Lawyer,100844,PhD
+817,817,53,Engineer,30969,Undergraduate
+818,818,43,Teacher,42387,High School
+819,819,32,Doctor,43209,High School
+820,820,25,Engineer,80815,Undergraduate
+821,821,58,Engineer,82378,Graduate
+822,822,21,Teacher,112483,High School
+823,823,30,Doctor,104063,PhD
+824,824,26,Doctor,81483,Graduate
+825,825,26,Lawyer,89524,High School
+826,826,58,Lawyer,56727,Graduate
+827,827,58,Engineer,97825,Graduate
+828,828,31,Doctor,106213,High School
+829,829,41,Teacher,66631,High School
+830,830,22,Teacher,37531,Undergraduate
+831,831,32,Engineer,47942,PhD
+832,832,49,Engineer,34078,High School
+833,833,29,Doctor,69979,High School
+834,834,28,Teacher,96445,PhD
+835,835,25,Lawyer,58817,Undergraduate
+836,836,63,Lawyer,102317,Graduate
+837,837,21,Lawyer,104206,PhD
+838,838,63,Doctor,117492,Undergraduate
+839,839,35,Doctor,40002,Graduate
+840,840,32,Engineer,71712,PhD
+841,841,67,Teacher,35250,Undergraduate
+842,842,32,Lawyer,111947,High School
+843,843,41,Teacher,33819,High School
+844,844,38,Doctor,84479,Graduate
+845,845,45,Teacher,68451,High School
+846,846,33,Lawyer,30215,Graduate
+847,847,50,Teacher,41071,Undergraduate
+848,848,48,Lawyer,49614,High School
+849,849,64,Doctor,73868,Graduate
+850,850,61,Engineer,61662,PhD
+851,851,41,Lawyer,103458,Undergraduate
+852,852,26,Engineer,61918,High School
+853,853,56,Lawyer,57821,High School
+854,854,68,Engineer,58932,Graduate
+855,855,60,Doctor,84132,PhD
+856,856,46,Teacher,100282,High School
+857,857,50,Lawyer,92836,Graduate
+858,858,25,Lawyer,54639,High School
+859,859,35,Lawyer,75330,Undergraduate
+860,860,57,Doctor,114168,High School
+861,861,57,Lawyer,99751,Graduate
+862,862,69,Doctor,114282,Graduate
+863,863,51,Engineer,41977,Graduate
+864,864,52,Teacher,99005,PhD
+865,865,68,Engineer,108493,PhD
+866,866,36,Teacher,49022,Undergraduate
+867,867,52,Teacher,52888,High School
+868,868,30,Engineer,95613,PhD
+869,869,32,Lawyer,86969,High School
+870,870,49,Lawyer,91358,High School
+871,871,20,Engineer,100332,Graduate
+872,872,49,Doctor,76309,Graduate
+873,873,46,Teacher,91085,High School
+874,874,59,Teacher,111005,Graduate
+875,875,42,Teacher,111388,High School
+876,876,39,Teacher,56601,High School
+877,877,25,Teacher,110310,Graduate
+878,878,56,Lawyer,117294,PhD
+879,879,39,Doctor,74752,High School
+880,880,56,Teacher,67874,PhD
+881,881,25,Doctor,36515,PhD
+882,882,48,Engineer,72098,Graduate
+883,883,32,Doctor,111265,PhD
+884,884,46,Lawyer,65087,PhD
+885,885,69,Doctor,76361,PhD
+886,886,39,Doctor,114118,PhD
+887,887,32,Engineer,109825,High School
+888,888,58,Teacher,94476,Graduate
+889,889,27,Doctor,48267,Graduate
+890,890,36,Lawyer,58780,Graduate
+891,891,49,Engineer,96395,High School
+892,892,20,Doctor,42764,High School
+893,893,43,Doctor,110491,Undergraduate
+894,894,35,Engineer,58775,High School
+895,895,30,Lawyer,54675,High School
+896,896,23,Lawyer,85710,PhD
+897,897,23,Lawyer,62681,High School
+898,898,36,Doctor,101414,Undergraduate
+899,899,68,Doctor,75449,Undergraduate
+900,900,29,Lawyer,80038,PhD
+901,901,40,Teacher,55396,High School
+902,902,57,Lawyer,90241,High School
+903,903,68,Engineer,60642,Graduate
+904,904,37,Doctor,117440,High School
+905,905,29,Engineer,105546,PhD
+906,906,64,Engineer,110007,Graduate
+907,907,35,Teacher,39654,High School
+908,908,58,Teacher,62698,Graduate
+909,909,34,Lawyer,47739,Undergraduate
+910,910,53,Teacher,69225,PhD
+911,911,24,Doctor,54250,Undergraduate
+912,912,36,Doctor,90364,High School
+913,913,56,Doctor,73277,Undergraduate
+914,914,27,Doctor,47352,Undergraduate
+915,915,43,Doctor,63000,Graduate
+916,916,47,Lawyer,49756,PhD
+917,917,66,Doctor,49682,PhD
+918,918,27,Lawyer,72699,Undergraduate
+919,919,42,Engineer,90247,High School
+920,920,54,Engineer,108662,High School
+921,921,50,Teacher,60926,Undergraduate
+922,922,36,Doctor,45926,High School
+923,923,47,Engineer,54242,Undergraduate
+924,924,67,Lawyer,30043,PhD
+925,925,67,Lawyer,108181,High School
+926,926,31,Lawyer,110134,Graduate
+927,927,43,Teacher,48553,Undergraduate
+928,928,34,Lawyer,59871,High School
+929,929,59,Teacher,33244,Graduate
+930,930,50,Lawyer,81977,PhD
+931,931,46,Teacher,63283,Undergraduate
+932,932,54,Teacher,88761,High School
+933,933,37,Engineer,95268,PhD
+934,934,55,Engineer,106283,Undergraduate
+935,935,27,Lawyer,117074,Graduate
+936,936,65,Engineer,85809,Undergraduate
+937,937,68,Teacher,35414,PhD
+938,938,57,Teacher,68864,Graduate
+939,939,24,Doctor,74466,Graduate
+940,940,33,Doctor,103869,PhD
+941,941,57,Teacher,68742,High School
+942,942,39,Engineer,93534,Graduate
+943,943,63,Teacher,61715,Graduate
+944,944,28,Lawyer,39047,High School
+945,945,52,Doctor,38997,Graduate
+946,946,37,Doctor,74893,High School
+947,947,25,Engineer,42013,PhD
+948,948,56,Teacher,87426,PhD
+949,949,21,Doctor,100150,High School
+950,950,49,Engineer,81713,Graduate
+951,951,25,Doctor,66297,Undergraduate
+952,952,36,Engineer,77578,Graduate
+953,953,58,Doctor,34272,Undergraduate
+954,954,60,Lawyer,69759,Graduate
+955,955,42,Doctor,76481,PhD
+956,956,50,Teacher,54830,High School
+957,957,39,Engineer,68299,Graduate
+958,958,24,Engineer,56340,High School
+959,959,40,Doctor,40505,Undergraduate
+960,960,62,Teacher,75801,Graduate
+961,961,30,Doctor,38205,Undergraduate
+962,962,23,Doctor,50917,Graduate
+963,963,42,Doctor,86646,High School
+964,964,57,Lawyer,108808,High School
+965,965,49,Engineer,88122,Graduate
+966,966,61,Teacher,50601,Undergraduate
+967,967,60,Lawyer,96859,Graduate
+968,968,37,Lawyer,58261,Graduate
+969,969,60,Doctor,92853,Graduate
+970,970,62,Doctor,31268,Undergraduate
+971,971,50,Doctor,51263,PhD
+972,972,49,Engineer,88382,Graduate
+973,973,53,Doctor,40709,PhD
+974,974,50,Lawyer,54576,High School
+975,975,66,Engineer,51795,Graduate
+976,976,57,Lawyer,52113,Graduate
+977,977,44,Engineer,49854,High School
+978,978,36,Engineer,80950,PhD
+979,979,55,Engineer,87944,Graduate
+980,980,59,Lawyer,74534,Undergraduate
+981,981,49,Engineer,51507,PhD
+982,982,21,Lawyer,96884,PhD
+983,983,43,Teacher,63893,Graduate
+984,984,28,Lawyer,86159,Undergraduate
+985,985,20,Lawyer,81099,PhD
+986,986,43,Engineer,34722,Graduate
+987,987,57,Engineer,56601,PhD
+988,988,67,Doctor,71385,Graduate
+989,989,46,Teacher,70831,Graduate
+990,990,45,Teacher,57025,Undergraduate
+991,991,45,Doctor,112282,High School
+992,992,26,Lawyer,53208,PhD
+993,993,44,Lawyer,37661,PhD
+994,994,35,Engineer,36950,PhD
+995,995,57,Teacher,78682,PhD
+996,996,61,Engineer,76363,PhD
+997,997,37,Doctor,116671,PhD
+998,998,36,Teacher,110626,Graduate
+999,999,68,Engineer,93394,Graduate
