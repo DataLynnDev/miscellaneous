@@ -1,0 +1,7 @@
+Category: Interview Challenge
+Subcategory: Technology
+Company: American Express
+Data Manipulation: Data Cleaning, Feature Standardization, Outlier Detection
+Feature Engineering: Feature Creation, Domain Knowledge, Time Series Analysis, Feature Creation
+Modeling Metric & Model Selection: Model Evaluation, Imbalanced Classe, Overfitting
+Business Insight: Segmentation, Campaign Optimization, Competitive Analysis, Strategy Optimization, Revenue Forecasting, Impact Analysis, Risk Analysis, KPI Tracking, Success Metrics

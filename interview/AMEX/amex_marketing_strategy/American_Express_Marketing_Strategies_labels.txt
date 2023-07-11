@@ -1,0 +1,7 @@
+Category : Interview Challenge
+Subcategory : Technology
+Company : Amercian Express
+Data Manipulation: Data Cleaning, Feature Standardization, Outlier Detection
+Feature Engineering: Feature Creation, Time Series Analysis
+Modeling Metric & Model Selection: Imbalanced Classes, Overfitting
+Business Insight: Segmentation, Optimization, Analysis, Revenue Forecasting, KPI Tracking, Success Metrics

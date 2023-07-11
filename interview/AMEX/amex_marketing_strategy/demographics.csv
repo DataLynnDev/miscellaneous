@@ -1,0 +1,1001 @@
+CustomerID,Age,Income,Occupation,Gender
+1,38,75034,Doctor,Female
+2,24,40498,Artist,Female
+3,42,76539,Teacher,Male
+4,44,99953,Data Scientist,Female
+5,15,30019,Doctor,Female
+6,21,45061,Engineer,Male
+7,36,82338,Data Scientist,Male
+8,31,57019,Doctor,Female
+9,34,79019,Doctor,Female
+10,26,56221,Teacher,Male
+11,43,63244,Engineer,Male
+12,42,109961,Teacher,Female
+13,35,62488,Artist,Female
+14,46,59370,Doctor,Male
+15,39,60532,Engineer,Male
+16,26,40622,Data Scientist,Male
+17,38,76849,Artist,Male
+18,25,47065,Engineer,Male
+19,43,79792,Artist,Female
+20,34,77029,Doctor,Male
+21,33,70806,Engineer,Male
+22,28,59792,Doctor,Female
+23,47,102255,Artist,Female
+24,33,74713,Engineer,Female
+25,30,32897,Teacher,Male
+26,31,57158,Teacher,Female
+27,40,42624,Engineer,Female
+28,38,76587,Teacher,Male
+29,39,77922,Doctor,Male
+30,39,95475,Engineer,Male
+31,56,140503,Teacher,Female
+32,30,62607,Doctor,Female
+33,29,51781,Doctor,Female
+34,26,57406,Artist,Female
+35,41,72723,Artist,Female
+36,46,91972,Data Scientist,Male
+37,33,79946,Engineer,Male
+38,26,45784,Teacher,Female
+39,26,60977,Data Scientist,Female
+40,41,93902,Doctor,Female
+41,42,66813,Engineer,Male
+42,40,96695,Data Scientist,Male
+43,28,64382,Teacher,Male
+44,37,75616,Engineer,Male
+45,36,60238,Doctor,Female
+46,37,60375,Teacher,Male
+47,43,76091,Teacher,Male
+48,37,82603,Artist,Male
+49,41,65208,Doctor,Male
+50,35,76562,Teacher,Male
+51,37,54309,Teacher,Male
+52,41,78414,Data Scientist,Female
+53,20,40939,Teacher,Female
+54,31,94485,Engineer,Male
+55,30,42291,Engineer,Male
+56,28,73664,Engineer,Male
+57,32,66054,Doctor,Female
+58,49,106634,Engineer,Male
+59,26,53318,Teacher,Male
+60,44,96386,Doctor,Male
+61,18,34814,Teacher,Female
+62,31,81318,Artist,Male
+63,36,64957,Artist,Male
+64,40,99409,Doctor,Female
+65,42,72401,Artist,Female
+66,42,82915,Data Scientist,Female
+67,31,47758,Engineer,Male
+68,30,65850,Data Scientist,Female
+69,43,112631,Teacher,Female
+70,33,64905,Data Scientist,Male
+71,22,42143,Engineer,Male
+72,23,35013,Teacher,Female
+73,25,47543,Data Scientist,Female
+74,39,51377,Engineer,Male
+75,36,57915,Teacher,Male
+76,41,85984,Engineer,Male
+77,30,76958,Data Scientist,Female
+78,36,115342,Engineer,Male
+79,41,71692,Engineer,Male
+80,31,81068,Artist,Female
+81,39,82074,Data Scientist,Male
+82,28,54185,Data Scientist,Male
+83,31,67747,Artist,Male
+84,31,62822,Engineer,Female
+85,23,47088,Engineer,Male
+86,39,71175,Engineer,Female
+87,30,42024,Artist,Male
+88,35,46845,Data Scientist,Female
+89,39,88918,Engineer,Male
+90,39,73375,Teacher,Female
+91,41,71525,Engineer,Male
+92,34,68123,Artist,Male
+93,30,70220,Teacher,Female
+94,34,70628,Doctor,Female
+95,18,30939,Data Scientist,Male
+96,20,50511,Data Scientist,Female
+97,21,56212,Data Scientist,Male
+98,25,55298,Doctor,Female
+99,38,91856,Engineer,Male
+100,25,63306,Data Scientist,Male
+101,31,77014,Data Scientist,Male
+102,47,106369,Teacher,Male
+103,31,69949,Data Scientist,Female
+104,42,93353,Artist,Female
+105,25,38242,Teacher,Male
+106,32,73609,Engineer,Female
+107,25,35473,Teacher,Male
+108,31,51443,Teacher,Female
+109,43,110022,Doctor,Female
+110,17,40121,Data Scientist,Female
+111,39,102860,Doctor,Female
+112,37,69692,Doctor,Female
+113,29,43679,Engineer,Female
+114,20,37939,Artist,Female
+115,35,71530,Artist,Female
+116,29,58981,Teacher,Male
+117,37,91976,Teacher,Male
+118,35,64580,Doctor,Male
+119,51,109694,Data Scientist,Male
+120,32,50441,Artist,Male
+121,24,52631,Engineer,Male
+122,36,72047,Engineer,Male
+123,37,62110,Teacher,Female
+124,48,91148,Engineer,Male
+125,43,82605,Data Scientist,Female
+126,38,71600,Teacher,Male
+127,49,135198,Data Scientist,Male
+128,23,45029,Engineer,Male
+129,28,53073,Engineer,Male
+130,25,27527,Data Scientist,Male
+131,31,50119,Data Scientist,Male
+132,21,39632,Data Scientist,Female
+133,41,69948,Engineer,Female
+134,32,82949,Doctor,Male
+135,20,38586,Data Scientist,Female
+136,24,61252,Teacher,Male
+137,38,77004,Engineer,Female
+138,43,86686,Artist,Male
+139,54,105944,Engineer,Female
+140,64,128104,Data Scientist,Female
+141,39,106728,Doctor,Male
+142,25,25147,Teacher,Male
+143,13,14848,Doctor,Male
+144,37,65386,Teacher,Female
+145,26,52161,Doctor,Female
+146,30,68872,Teacher,Male
+147,28,61677,Teacher,Female
+148,33,60565,Data Scientist,Male
+149,45,109652,Data Scientist,Female
+150,36,87894,Artist,Male
+151,33,68603,Teacher,Male
+152,24,57901,Artist,Male
+153,18,38103,Doctor,Male
+154,30,52780,Doctor,Male
+155,34,78168,Doctor,Female
+156,52,106465,Engineer,Male
+157,36,72020,Engineer,Male
+158,44,115775,Engineer,Female
+159,30,28488,Artist,Female
+160,23,32025,Artist,Male
+161,25,37281,Teacher,Male
+162,27,49796,Data Scientist,Male
+163,56,105889,Teacher,Female
+164,26,35204,Teacher,Female
+165,43,67844,Artist,Male
+166,25,40776,Engineer,Female
+167,44,134339,Engineer,Female
+168,38,105342,Teacher,Female
+169,33,60176,Data Scientist,Female
+170,34,62702,Artist,Female
+171,28,42209,Doctor,Male
+172,39,46106,Artist,Female
+173,30,58497,Doctor,Male
+174,22,34591,Teacher,Male
+175,22,43199,Doctor,Female
+176,36,47311,Data Scientist,Female
+177,50,83671,Artist,Male
+178,36,74293,Teacher,Male
+179,33,71179,Data Scientist,Male
+180,37,80619,Artist,Male
+181,48,68835,Doctor,Male
+182,37,87552,Artist,Female
+183,30,49711,Teacher,Female
+184,46,104476,Artist,Male
+185,39,77822,Engineer,Female
+186,50,70505,Doctor,Male
+187,36,67121,Data Scientist,Male
+188,22,47444,Doctor,Female
+189,21,47516,Doctor,Female
+190,51,98918,Doctor,Male
+191,52,138136,Data Scientist,Female
+192,33,80249,Engineer,Male
+193,31,58590,Artist,Female
+194,49,113752,Teacher,Female
+195,23,65061,Data Scientist,Male
+196,26,73845,Teacher,Female
+197,41,60422,Artist,Female
+198,31,49690,Doctor,Female
+199,34,89637,Artist,Female
+200,33,51032,Engineer,Female
+201,38,54461,Engineer,Male
+202,49,87789,Teacher,Male
+203,35,76303,Engineer,Male
+204,41,80200,Data Scientist,Male
+205,14,24096,Teacher,Male
+206,34,58175,Doctor,Female
+207,26,44062,Teacher,Female
+208,22,35707,Artist,Female
+209,26,77423,Teacher,Male
+210,31,65952,Artist,Male
+211,44,104721,Doctor,Male
+212,21,37598,Artist,Female
+213,35,67210,Teacher,Female
+214,30,50825,Engineer,Female
+215,31,26770,Teacher,Male
+216,45,63424,Data Scientist,Female
+217,40,48960,Artist,Male
+218,48,49718,Data Scientist,Male
+219,33,49094,Engineer,Male
+220,28,71899,Artist,Female
+221,32,63390,Teacher,Female
+222,37,94464,Teacher,Male
+223,36,78340,Data Scientist,Female
+224,24,56049,Data Scientist,Female
+225,35,56486,Artist,Female
+226,37,82308,Doctor,Female
+227,60,138738,Artist,Male
+228,53,92901,Data Scientist,Male
+229,26,58234,Artist,Female
+230,32,71764,Engineer,Male
+231,20,35289,Doctor,Female
+232,29,44045,Engineer,Female
+233,38,56715,Engineer,Female
+234,47,95742,Data Scientist,Male
+235,27,57783,Artist,Female
+236,28,46489,Doctor,Female
+237,13,26148,Engineer,Female
+238,33,74069,Artist,Male
+239,24,54358,Data Scientist,Male
+240,29,77287,Artist,Male
+241,26,66229,Doctor,Female
+242,34,53409,Artist,Male
+243,17,46266,Teacher,Male
+244,20,35448,Engineer,Female
+245,56,137076,Engineer,Female
+246,22,44641,Artist,Male
+247,24,43760,Engineer,Female
+248,53,64939,Engineer,Female
+249,64,123294,Artist,Female
+250,23,30628,Artist,Female
+251,31,74851,Teacher,Male
+252,38,100702,Engineer,Male
+253,52,86240,Data Scientist,Male
+254,25,53235,Teacher,Male
+255,32,54051,Engineer,Male
+256,42,72687,Engineer,Male
+257,39,90945,Engineer,Female
+258,31,61487,Data Scientist,Female
+259,33,90603,Data Scientist,Male
+260,21,37659,Artist,Male
+261,32,77705,Data Scientist,Male
+262,32,65335,Engineer,Male
+263,37,86618,Artist,Female
+264,29,52442,Doctor,Male
+265,39,77171,Artist,Female
+266,45,87772,Doctor,Female
+267,36,59100,Artist,Male
+268,38,86782,Doctor,Female
+269,35,79753,Teacher,Male
+270,35,78903,Engineer,Female
+271,27,71784,Teacher,Male
+272,38,99603,Engineer,Male
+273,34,62536,Data Scientist,Male
+274,55,118793,Teacher,Male
+275,50,86637,Teacher,Male
+276,38,76380,Artist,Female
+277,27,47060,Teacher,Male
+278,23,61969,Teacher,Female
+279,46,99170,Artist,Male
+280,37,70542,Teacher,Female
+281,39,97950,Data Scientist,Female
+282,17,18185,Data Scientist,Male
+283,44,50019,Data Scientist,Female
+284,39,91301,Artist,Male
+285,23,46596,Data Scientist,Female
+286,30,63220,Engineer,Female
+287,37,52967,Teacher,Female
+288,35,69651,Teacher,Female
+289,32,91476,Teacher,Female
+290,33,77656,Artist,Male
+291,32,66327,Data Scientist,Female
+292,36,65226,Teacher,Female
+293,49,89713,Teacher,Male
+294,9,9787,Engineer,Female
+295,32,67533,Teacher,Female
+296,36,85044,Doctor,Male
+297,37,49015,Teacher,Male
+298,31,53212,Engineer,Female
+299,17,25567,Data Scientist,Male
+300,38,60278,Data Scientist,Male
+301,52,105191,Data Scientist,Female
+302,19,21027,Data Scientist,Male
+303,43,97320,Artist,Female
+304,31,72015,Teacher,Male
+305,34,64341,Data Scientist,Male
+306,24,22484,Engineer,Female
+307,31,48761,Data Scientist,Male
+308,48,121362,Doctor,Female
+309,40,32377,Teacher,Male
+310,52,96255,Artist,Female
+311,46,68737,Teacher,Male
+312,39,91447,Teacher,Female
+313,52,88954,Engineer,Female
+314,39,84751,Data Scientist,Female
+315,43,96420,Artist,Male
+316,32,89182,Teacher,Female
+317,35,66955,Engineer,Female
+318,28,60512,Engineer,Male
+319,44,59996,Artist,Male
+320,23,57734,Engineer,Female
+321,42,70310,Teacher,Male
+322,33,58069,Artist,Male
+323,46,91561,Data Scientist,Female
+324,42,55868,Doctor,Male
+325,53,111196,Data Scientist,Male
+326,42,101414,Teacher,Female
+327,19,40385,Engineer,Female
+328,34,44847,Artist,Male
+329,23,44779,Engineer,Male
+330,29,67222,Teacher,Female
+331,50,59757,Doctor,Female
+332,41,63114,Doctor,Male
+333,28,66518,Data Scientist,Female
+334,24,50778,Data Scientist,Female
+335,35,76179,Artist,Female
+336,22,61532,Artist,Male
+337,28,61622,Data Scientist,Female
+338,38,86714,Data Scientist,Male
+339,46,145440,Engineer,Female
+340,41,78243,Engineer,Male
+341,12,19896,Data Scientist,Male
+342,38,82966,Doctor,Female
+343,35,76584,Teacher,Male
+344,39,69196,Artist,Female
+345,51,79434,Engineer,Male
+346,14,41859,Doctor,Female
+347,29,62062,Artist,Male
+348,40,67446,Engineer,Female
+349,19,45458,Teacher,Female
+350,49,95707,Data Scientist,Female
+351,38,71881,Artist,Female
+352,43,96361,Doctor,Male
+353,29,41943,Artist,Female
+354,43,92498,Engineer,Female
+355,45,126892,Teacher,Male
+356,37,81392,Data Scientist,Female
+357,37,68034,Teacher,Female
+358,37,65958,Doctor,Male
+359,26,47427,Artist,Female
+360,33,62408,Engineer,Female
+361,33,60656,Doctor,Female
+362,38,90922,Data Scientist,Female
+363,44,55316,Engineer,Female
+364,24,56866,Teacher,Male
+365,33,60630,Doctor,Female
+366,49,105915,Data Scientist,Female
+367,27,40959,Artist,Male
+368,26,66804,Teacher,Male
+369,37,93752,Data Scientist,Female
+370,43,103683,Teacher,Male
+371,35,47278,Doctor,Male
+372,48,113056,Doctor,Female
+373,43,93460,Teacher,Male
+374,43,56417,Doctor,Female
+375,40,79583,Data Scientist,Female
+376,58,125061,Teacher,Male
+377,32,71626,Doctor,Male
+378,14,29063,Data Scientist,Female
+379,51,108365,Data Scientist,Female
+380,30,78946,Doctor,Female
+381,36,90915,Data Scientist,Male
+382,48,37020,Data Scientist,Male
+383,18,33551,Data Scientist,Female
+384,22,42447,Teacher,Female
+385,18,22483,Engineer,Male
+386,27,55089,Data Scientist,Female
+387,39,98872,Data Scientist,Female
+388,40,61373,Artist,Male
+389,37,79334,Engineer,Male
+390,20,32150,Teacher,Male
+391,11,18832,Artist,Male
+392,35,92160,Doctor,Male
+393,30,53024,Engineer,Female
+394,39,85725,Artist,Female
+395,42,50318,Doctor,Female
+396,36,100732,Engineer,Male
+397,42,94847,Teacher,Male
+398,37,71106,Teacher,Female
+399,40,89866,Artist,Female
+400,27,37686,Artist,Male
+401,33,82724,Doctor,Male
+402,36,67001,Artist,Male
+403,43,82239,Artist,Male
+404,31,55468,Doctor,Male
+405,40,70045,Teacher,Male
+406,32,73526,Data Scientist,Male
+407,33,69619,Teacher,Male
+408,43,98010,Teacher,Female
+409,15,29943,Data Scientist,Male
+410,22,48838,Engineer,Female
+411,20,36409,Data Scientist,Male
+412,11,32511,Teacher,Male
+413,28,37184,Data Scientist,Male
+414,42,106696,Engineer,Male
+415,32,82759,Artist,Male
+416,36,58852,Doctor,Male
+417,45,132993,Doctor,Male
+418,48,116478,Teacher,Female
+419,34,82150,Artist,Female
+420,48,96576,Artist,Male
+421,35,66741,Artist,Female
+422,26,49666,Artist,Female
+423,29,62853,Artist,Male
+424,20,52010,Doctor,Female
+425,26,54020,Doctor,Male
+426,31,49890,Engineer,Female
+427,43,101193,Doctor,Female
+428,52,124528,Teacher,Male
+429,21,47891,Teacher,Male
+430,38,88140,Data Scientist,Female
+431,24,45213,Engineer,Male
+432,39,62472,Teacher,Male
+433,33,53721,Engineer,Female
+434,16,20785,Teacher,Female
+435,44,92468,Data Scientist,Female
+436,28,54998,Artist,Female
+437,29,52531,Artist,Female
+438,24,17599,Artist,Female
+439,28,41032,Engineer,Female
+440,39,96734,Teacher,Male
+441,33,56600,Doctor,Female
+442,38,81872,Doctor,Male
+443,38,53351,Engineer,Male
+444,48,125596,Engineer,Female
+445,31,60086,Artist,Male
+446,20,42486,Engineer,Male
+447,45,134854,Teacher,Female
+448,31,82146,Teacher,Female
+449,46,85956,Teacher,Male
+450,38,66338,Data Scientist,Female
+451,33,61395,Doctor,Male
+452,38,84304,Engineer,Female
+453,54,105564,Artist,Female
+454,55,100683,Teacher,Male
+455,35,92007,Doctor,Male
+456,36,70237,Teacher,Female
+457,45,134349,Teacher,Female
+458,26,53011,Artist,Male
+459,38,105075,Data Scientist,Male
+460,34,73206,Artist,Male
+461,38,91682,Data Scientist,Male
+462,26,43925,Teacher,Male
+463,19,31047,Data Scientist,Male
+464,14,30758,Teacher,Male
+465,23,55744,Data Scientist,Male
+466,30,60517,Artist,Female
+467,32,46358,Doctor,Female
+468,54,76519,Doctor,Male
+469,46,63865,Doctor,Male
+470,25,31061,Artist,Female
+471,38,77783,Artist,Female
+472,30,74464,Data Scientist,Male
+473,32,63816,Teacher,Male
+474,36,37125,Artist,Female
+475,41,78648,Engineer,Male
+476,31,59837,Data Scientist,Male
+477,45,130422,Engineer,Female
+478,23,31636,Artist,Male
+479,35,64139,Teacher,Female
+480,60,163864,Teacher,Female
+481,37,81135,Artist,Male
+482,49,109829,Teacher,Female
+483,35,71718,Artist,Female
+484,40,85656,Teacher,Male
+485,34,79330,Teacher,Male
+486,33,54551,Engineer,Male
+487,27,64160,Data Scientist,Male
+488,39,55051,Engineer,Male
+489,26,55658,Doctor,Male
+490,41,85140,Teacher,Female
+491,45,78114,Doctor,Male
+492,38,75630,Doctor,Female
+493,32,55462,Teacher,Female
+494,39,60087,Engineer,Male
+495,31,57301,Teacher,Male
+496,44,67181,Teacher,Female
+497,16,34213,Teacher,Female
+498,31,46720,Teacher,Male
+499,15,34576,Teacher,Female
+500,20,29873,Data Scientist,Female
+501,48,84350,Artist,Female
+502,43,74489,Engineer,Male
+503,27,69333,Doctor,Female
+504,19,40689,Data Scientist,Male
+505,5,9546,Doctor,Male
+506,29,64198,Artist,Female
+507,59,64718,Engineer,Male
+508,39,77279,Doctor,Female
+509,29,82826,Teacher,Male
+510,39,80212,Teacher,Male
+511,19,38553,Teacher,Female
+512,32,71517,Doctor,Female
+513,35,83434,Teacher,Male
+514,34,38894,Artist,Female
+515,42,53718,Teacher,Male
+516,38,79424,Teacher,Female
+517,41,69438,Teacher,Male
+518,28,71744,Data Scientist,Female
+519,43,80191,Engineer,Female
+520,51,59716,Data Scientist,Female
+521,25,36414,Doctor,Male
+522,26,21360,Data Scientist,Female
+523,48,91183,Doctor,Male
+524,33,63335,Data Scientist,Female
+525,49,89086,Artist,Female
+526,30,73871,Teacher,Female
+527,49,123168,Teacher,Male
+528,36,69371,Engineer,Male
+529,37,40149,Engineer,Female
+530,50,113227,Data Scientist,Male
+531,31,69378,Data Scientist,Male
+532,25,53314,Doctor,Female
+533,30,72619,Doctor,Female
+534,39,58530,Artist,Male
+535,19,54357,Doctor,Female
+536,41,65141,Artist,Male
+537,29,67311,Engineer,Male
+538,46,58735,Doctor,Female
+539,11,17614,Teacher,Male
+540,27,71546,Engineer,Male
+541,18,33987,Data Scientist,Female
+542,26,61359,Engineer,Male
+543,37,77757,Data Scientist,Female
+544,33,64515,Artist,Male
+545,32,82704,Teacher,Female
+546,33,62652,Teacher,Male
+547,37,45762,Data Scientist,Female
+548,24,39738,Artist,Male
+549,42,93921,Engineer,Male
+550,41,88949,Teacher,Female
+551,38,50479,Teacher,Male
+552,40,67582,Artist,Male
+553,37,64775,Data Scientist,Male
+554,55,101385,Artist,Female
+555,34,47950,Teacher,Female
+556,31,53651,Doctor,Male
+557,27,45568,Doctor,Male
+558,24,55935,Teacher,Female
+559,22,51628,Engineer,Male
+560,26,50375,Teacher,Male
+561,34,62287,Engineer,Female
+562,38,78278,Engineer,Female
+563,35,57751,Engineer,Male
+564,27,40729,Artist,Female
+565,44,70270,Teacher,Male
+566,42,72573,Artist,Female
+567,33,49545,Teacher,Male
+568,28,57944,Teacher,Male
+569,40,92509,Teacher,Male
+570,36,47513,Data Scientist,Female
+571,20,40215,Teacher,Female
+572,34,64795,Engineer,Female
+573,37,79415,Engineer,Female
+574,26,51855,Teacher,Female
+575,36,49573,Artist,Male
+576,20,29179,Engineer,Male
+577,48,96605,Data Scientist,Male
+578,47,114722,Data Scientist,Male
+579,32,33634,Data Scientist,Male
+580,38,81630,Doctor,Female
+581,10,25098,Teacher,Male
+582,23,44491,Teacher,Male
+583,32,71545,Teacher,Female
+584,24,40768,Data Scientist,Female
+585,42,81851,Data Scientist,Male
+586,54,70487,Data Scientist,Female
+587,23,22891,Doctor,Male
+588,26,62505,Doctor,Female
+589,37,58380,Artist,Female
+590,51,92043,Artist,Female
+591,22,30927,Data Scientist,Male
+592,37,51641,Teacher,Female
+593,53,102051,Engineer,Female
+594,18,30371,Data Scientist,Male
+595,22,47563,Artist,Male
+596,30,65818,Doctor,Female
+597,29,61987,Teacher,Female
+598,43,90397,Teacher,Female
+599,37,99018,Teacher,Female
+600,17,26221,Data Scientist,Female
+601,40,79058,Engineer,Female
+602,29,72077,Teacher,Female
+603,47,119471,Engineer,Female
+604,28,38938,Engineer,Male
+605,28,52251,Teacher,Male
+606,40,103282,Teacher,Male
+607,42,93145,Engineer,Male
+608,39,81263,Engineer,Female
+609,18,34320,Teacher,Female
+610,40,73420,Teacher,Female
+611,24,50964,Teacher,Male
+612,37,69998,Engineer,Male
+613,20,39635,Doctor,Female
+614,39,79313,Artist,Female
+615,26,44444,Teacher,Male
+616,22,49017,Teacher,Male
+617,42,136456,Teacher,Female
+618,37,45822,Engineer,Female
+619,28,59888,Data Scientist,Male
+620,49,82036,Doctor,Female
+621,30,67423,Data Scientist,Female
+622,35,70698,Doctor,Male
+623,37,86080,Data Scientist,Male
+624,28,70106,Teacher,Female
+625,39,81216,Doctor,Male
+626,29,72069,Teacher,Male
+627,30,29859,Engineer,Female
+628,48,128717,Artist,Female
+629,24,51857,Artist,Female
+630,10,24619,Engineer,Female
+631,51,75337,Doctor,Male
+632,60,98637,Data Scientist,Male
+633,30,61876,Data Scientist,Male
+634,15,29890,Engineer,Male
+635,31,65760,Engineer,Female
+636,32,78873,Teacher,Female
+637,33,41034,Engineer,Female
+638,23,55599,Engineer,Male
+639,40,80141,Engineer,Female
+640,40,76506,Teacher,Male
+641,20,27390,Artist,Male
+642,41,90839,Teacher,Male
+643,55,53096,Data Scientist,Female
+644,36,82003,Teacher,Female
+645,31,42176,Data Scientist,Female
+646,33,66756,Teacher,Female
+647,41,79906,Artist,Female
+648,17,42520,Artist,Male
+649,36,69243,Artist,Female
+650,31,52777,Engineer,Female
+651,53,94492,Engineer,Female
+652,33,84002,Engineer,Female
+653,51,113721,Doctor,Male
+654,23,42198,Teacher,Female
+655,40,75946,Artist,Female
+656,38,50477,Artist,Male
+657,26,56328,Engineer,Male
+658,36,44848,Doctor,Female
+659,47,109143,Engineer,Female
+660,31,63708,Data Scientist,Female
+661,18,54413,Engineer,Male
+662,34,51969,Artist,Female
+663,25,48900,Artist,Male
+664,31,85891,Artist,Male
+665,34,85360,Data Scientist,Female
+666,17,28927,Engineer,Female
+667,18,37727,Teacher,Male
+668,39,78033,Doctor,Female
+669,29,61504,Teacher,Female
+670,9,15305,Data Scientist,Female
+671,42,82392,Artist,Female
+672,37,48659,Engineer,Male
+673,27,55563,Artist,Female
+674,21,46050,Data Scientist,Male
+675,43,81808,Doctor,Male
+676,38,49697,Engineer,Female
+677,58,140572,Engineer,Female
+678,39,84092,Artist,Male
+679,38,64176,Data Scientist,Male
+680,33,62031,Doctor,Male
+681,43,58344,Data Scientist,Male
+682,41,63982,Artist,Female
+683,47,83166,Doctor,Female
+684,29,73267,Doctor,Female
+685,30,51777,Doctor,Male
+686,30,68231,Teacher,Male
+687,42,74310,Doctor,Male
+688,49,103206,Teacher,Female
+689,30,58182,Doctor,Male
+690,30,71225,Teacher,Female
+691,38,67290,Engineer,Male
+692,32,42433,Doctor,Male
+693,44,61940,Data Scientist,Male
+694,12,21264,Teacher,Female
+695,26,38081,Data Scientist,Female
+696,27,58746,Doctor,Female
+697,11,19804,Data Scientist,Male
+698,25,75442,Engineer,Male
+699,25,31381,Doctor,Female
+700,32,66792,Engineer,Female
+701,46,69763,Doctor,Female
+702,32,57233,Artist,Female
+703,24,49454,Data Scientist,Female
+704,34,34116,Artist,Male
+705,45,94567,Teacher,Female
+706,25,70388,Doctor,Male
+707,25,45141,Artist,Female
+708,40,84453,Teacher,Female
+709,32,78056,Engineer,Male
+710,41,79119,Engineer,Male
+711,34,59534,Teacher,Female
+712,42,43036,Data Scientist,Male
+713,24,54593,Teacher,Female
+714,34,66350,Artist,Male
+715,32,50111,Teacher,Male
+716,22,45193,Doctor,Female
+717,19,33247,Doctor,Female
+718,41,72714,Doctor,Female
+719,31,70055,Engineer,Male
+720,24,34233,Engineer,Male
+721,34,83260,Engineer,Male
+722,46,64445,Doctor,Male
+723,12,20591,Data Scientist,Male
+724,20,56482,Teacher,Male
+725,25,62078,Teacher,Female
+726,49,100049,Doctor,Male
+727,37,59085,Teacher,Female
+728,42,74473,Engineer,Male
+729,23,46722,Engineer,Female
+730,23,46369,Data Scientist,Female
+731,39,76481,Artist,Male
+732,35,69537,Artist,Male
+733,40,76324,Data Scientist,Male
+734,33,45606,Teacher,Male
+735,37,65809,Data Scientist,Male
+736,36,86111,Doctor,Male
+737,42,59369,Artist,Female
+738,43,82506,Teacher,Male
+739,18,29676,Doctor,Male
+740,12,24572,Doctor,Female
+741,45,82504,Doctor,Male
+742,46,121125,Doctor,Male
+743,24,53210,Engineer,Female
+744,16,23004,Data Scientist,Male
+745,35,80068,Engineer,Male
+746,44,73392,Teacher,Male
+747,52,91141,Teacher,Female
+748,40,85379,Engineer,Male
+749,31,55466,Teacher,Male
+750,26,61948,Teacher,Male
+751,35,58382,Data Scientist,Female
+752,32,55511,Teacher,Male
+753,24,41248,Artist,Male
+754,55,96667,Data Scientist,Female
+755,52,128496,Artist,Male
+756,46,104396,Teacher,Female
+757,25,68320,Teacher,Female
+758,43,127789,Data Scientist,Female
+759,41,63888,Doctor,Male
+760,39,79177,Data Scientist,Male
+761,47,70307,Artist,Male
+762,41,68336,Teacher,Female
+763,42,72658,Engineer,Female
+764,41,63424,Teacher,Female
+765,38,58869,Teacher,Female
+766,17,32948,Doctor,Female
+767,35,51749,Data Scientist,Male
+768,29,68466,Engineer,Female
+769,22,35346,Doctor,Male
+770,51,163409,Teacher,Female
+771,52,93940,Doctor,Female
+772,48,97481,Doctor,Male
+773,37,53459,Data Scientist,Female
+774,48,131096,Engineer,Male
+775,35,86792,Doctor,Male
+776,37,78708,Data Scientist,Female
+777,24,34147,Data Scientist,Male
+778,38,79430,Data Scientist,Male
+779,35,53178,Teacher,Female
+780,21,55161,Engineer,Female
+781,34,79791,Teacher,Female
+782,34,69390,Data Scientist,Male
+783,52,49703,Teacher,Female
+784,43,67877,Data Scientist,Male
+785,35,80316,Doctor,Female
+786,37,93232,Doctor,Female
+787,35,86637,Doctor,Female
+788,32,42166,Data Scientist,Male
+789,24,51101,Teacher,Male
+790,33,80362,Artist,Male
+791,27,34810,Data Scientist,Female
+792,22,43925,Engineer,Female
+793,40,84694,Doctor,Male
+794,38,71101,Data Scientist,Female
+795,17,20505,Artist,Female
+796,33,61393,Artist,Male
+797,44,81827,Artist,Female
+798,45,87144,Data Scientist,Male
+799,45,79133,Engineer,Male
+800,35,63354,Engineer,Male
+801,26,51557,Data Scientist,Female
+802,24,52550,Data Scientist,Female
+803,38,71042,Doctor,Male
+804,38,69328,Teacher,Male
+805,47,95860,Teacher,Female
+806,45,52953,Engineer,Female
+807,33,72746,Teacher,Female
+808,22,43994,Data Scientist,Male
+809,31,62527,Artist,Male
+810,37,89234,Data Scientist,Male
+811,32,37218,Engineer,Female
+812,29,33468,Data Scientist,Female
+813,37,78341,Artist,Male
+814,29,57911,Data Scientist,Male
+815,28,58042,Teacher,Male
+816,38,68473,Doctor,Male
+817,30,68541,Artist,Female
+818,37,88788,Doctor,Female
+819,37,81674,Data Scientist,Female
+820,23,43428,Artist,Male
+821,30,32901,Doctor,Male
+822,49,114153,Engineer,Male
+823,23,58042,Artist,Male
+824,13,29591,Doctor,Male
+825,16,25968,Data Scientist,Female
+826,35,80106,Engineer,Male
+827,35,82907,Doctor,Female
+828,33,88046,Doctor,Female
+829,47,76352,Data Scientist,Female
+830,8,15223,Doctor,Male
+831,38,88169,Data Scientist,Female
+832,50,101230,Doctor,Male
+833,23,34986,Teacher,Male
+834,31,67508,Data Scientist,Female
+835,27,60695,Data Scientist,Male
+836,26,52980,Artist,Male
+837,31,64917,Data Scientist,Male
+838,49,92567,Doctor,Male
+839,53,139578,Teacher,Female
+840,31,50033,Artist,Female
+841,54,94407,Artist,Female
+842,35,70164,Engineer,Male
+843,52,123588,Teacher,Female
+844,34,46181,Data Scientist,Female
+845,36,51783,Engineer,Female
+846,38,42814,Data Scientist,Male
+847,66,132924,Data Scientist,Female
+848,43,65391,Artist,Female
+849,27,49550,Data Scientist,Male
+850,44,100471,Artist,Male
+851,31,53476,Engineer,Male
+852,30,62973,Data Scientist,Male
+853,44,82355,Teacher,Male
+854,35,80081,Teacher,Female
+855,37,81534,Engineer,Male
+856,35,59620,Engineer,Female
+857,38,73253,Data Scientist,Female
+858,39,95445,Data Scientist,Female
+859,15,32528,Doctor,Female
+860,41,57453,Doctor,Female
+861,25,57024,Teacher,Male
+862,20,30703,Data Scientist,Male
+863,34,88582,Teacher,Female
+864,35,85361,Engineer,Female
+865,28,59478,Artist,Female
+866,43,88897,Data Scientist,Female
+867,21,40118,Teacher,Male
+868,30,68723,Doctor,Female
+869,29,53391,Doctor,Female
+870,34,71432,Doctor,Female
+871,37,87826,Data Scientist,Male
+872,24,42221,Doctor,Male
+873,42,72908,Data Scientist,Female
+874,35,52084,Engineer,Male
+875,16,24700,Artist,Male
+876,15,18246,Teacher,Female
+877,34,78634,Engineer,Female
+878,32,88807,Doctor,Female
+879,33,86158,Teacher,Female
+880,34,44305,Data Scientist,Female
+881,37,85494,Doctor,Male
+882,44,114816,Engineer,Female
+883,23,41497,Engineer,Male
+884,23,46999,Data Scientist,Female
+885,24,27347,Engineer,Male
+886,37,78229,Data Scientist,Male
+887,47,72576,Engineer,Male
+888,30,62566,Engineer,Female
+889,9,11978,Artist,Male
+890,17,37955,Artist,Female
+891,26,63415,Artist,Female
+892,29,48266,Doctor,Male
+893,30,45382,Doctor,Male
+894,35,37659,Artist,Female
+895,31,58460,Teacher,Male
+896,45,78783,Data Scientist,Male
+897,28,37387,Doctor,Male
+898,26,57047,Teacher,Female
+899,39,70479,Doctor,Male
+900,19,29240,Engineer,Male
+901,38,66968,Doctor,Male
+902,36,88528,Data Scientist,Male
+903,33,74527,Teacher,Female
+904,50,97213,Artist,Male
+905,28,63429,Teacher,Male
+906,55,82635,Engineer,Male
+907,32,64443,Artist,Male
+908,22,45389,Teacher,Male
+909,35,62952,Teacher,Male
+910,24,52479,Artist,Male
+911,27,44969,Data Scientist,Male
+912,38,84302,Doctor,Male
+913,40,89460,Teacher,Male
+914,28,20994,Artist,Female
+915,44,110445,Teacher,Male
+916,46,31918,Artist,Male
+917,49,85062,Data Scientist,Female
+918,40,97577,Artist,Female
+919,48,89472,Engineer,Male
+920,16,21946,Engineer,Male
+921,31,47468,Engineer,Female
+922,26,63442,Artist,Male
+923,36,42353,Engineer,Female
+924,29,72031,Doctor,Female
+925,33,65220,Doctor,Male
+926,53,78915,Teacher,Female
+927,33,57753,Engineer,Female
+928,39,60997,Teacher,Female
+929,32,75879,Doctor,Female
+930,35,80986,Engineer,Female
+931,35,44212,Artist,Male
+932,39,71254,Doctor,Female
+933,46,74982,Teacher,Male
+934,51,130272,Teacher,Male
+935,38,54012,Teacher,Female
+936,40,107501,Engineer,Male
+937,23,45671,Doctor,Female
+938,34,51068,Engineer,Female
+939,44,75228,Engineer,Female
+940,43,71227,Teacher,Female
+941,37,53788,Doctor,Male
+942,43,87747,Data Scientist,Male
+943,39,57476,Data Scientist,Male
+944,47,50081,Teacher,Male
+945,37,67979,Engineer,Female
+946,31,38047,Engineer,Male
+947,38,63750,Artist,Female
+948,5,8051,Teacher,Female
+949,38,61811,Engineer,Female
+950,-1,-2857,Artist,Female
+951,17,34410,Doctor,Male
+952,39,82101,Doctor,Male
+953,39,48308,Engineer,Female
+954,23,39553,Doctor,Male
+955,27,56491,Teacher,Female
+956,48,74923,Data Scientist,Female
+957,30,71675,Artist,Male
+958,57,84619,Teacher,Male
+959,34,63827,Data Scientist,Female
+960,39,68204,Data Scientist,Male
+961,51,105591,Data Scientist,Female
+962,36,62118,Teacher,Female
+963,24,45213,Data Scientist,Male
+964,33,62660,Doctor,Female
+965,34,57298,Data Scientist,Female
+966,21,46365,Teacher,Female
+967,32,67269,Doctor,Female
+968,27,52974,Doctor,Male
+969,44,79882,Data Scientist,Male
+970,35,81948,Engineer,Male
+971,32,60765,Doctor,Female
+972,33,61662,Data Scientist,Male
+973,37,75660,Artist,Female
+974,41,111811,Doctor,Male
+975,25,35639,Data Scientist,Female
+976,24,55918,Artist,Female
+977,46,54677,Data Scientist,Male
+978,30,62793,Doctor,Male
+979,20,53500,Data Scientist,Female
+980,39,86167,Teacher,Male
+981,39,80851,Artist,Male
+982,19,33436,Artist,Female
+983,37,74492,Doctor,Male
+984,42,79462,Doctor,Female
+985,38,63199,Data Scientist,Female
+986,41,76906,Teacher,Male
+987,20,41700,Artist,Female
+988,38,63505,Engineer,Male
+989,31,51287,Engineer,Male
+990,30,42511,Data Scientist,Female
+991,43,93200,Doctor,Male
+992,49,109451,Engineer,Female
+993,52,109162,Data Scientist,Female
+994,48,115854,Doctor,Male
+995,33,67242,Teacher,Female
+996,38,82384,Engineer,Male
+997,42,89469,Teacher,Female
+998,36,70587,Artist,Male
+999,36,63810,Engineer,Male
+1000,43,126803,Engineer,Male
